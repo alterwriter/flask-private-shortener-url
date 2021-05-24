@@ -1,9 +1,11 @@
 #HOWDY
+
 This is my first basic Python Personal Private Shortener Link website which only can be used in a host computer. You can Try and learn from it
 Source : Digital Ocean
 
 disclaimer : I use a bit of bash/linux command here, if you want to use in windows, just change and read a bit of Windows Documentation on the Internet
 version : python3.x
+
 #Instalation guide
 
 Install your Python3, virtualenv and pip3 :
