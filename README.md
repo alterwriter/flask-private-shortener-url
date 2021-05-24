@@ -30,7 +30,8 @@ Install the packages :
 ```pip3 install -r requirements.txt```
 
 debug your program first :
-#you should be in your virtualenv folder
+_you should be in your virtualenv folder_
+
 ```chmod 777 flask_init.sh```
 ```./flask_init.sh```
 
